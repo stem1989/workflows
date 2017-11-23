@@ -1,5 +1,5 @@
 $ = require 'jquery'
 
-do fill = (item = 'This is the new Gulp file yeh!!!!') ->
+do fill = (item = 'Hello!!!!!!') ->
   $('.tagline').append "#{item}"
 fill
